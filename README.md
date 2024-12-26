@@ -1,7 +1,9 @@
 # 🤖 Modern Java Socket Chat
 
 <p align="center">
-  <img src="demo/banner.png" alt="Modern Java Socket Chat Banner" width="800"/>
+  <a href="https://github.com/Ornella-Gigante/JavaSocketChat/blob/main/socket.png">
+    <img src="https://github.com/Ornella-Gigante/JavaSocketChat/blob/main/socket.png" alt="Java Socket Chat Preview" width="600"/>
+  </a>
 </p>
 
 ## 🌟 Overview
