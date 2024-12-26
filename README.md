@@ -5,7 +5,7 @@
 </p>
 
 ## 🌟 Overview
-A sophisticated chat application showcasing the power of Java socket programming combined with an elegant dark-themed GUI. Perfect for learning network programming while maintaining a professional, modern aesthetic.
+A simple but functional chat application showcasing the power of Java socket programming combined with an elegant dark-themed GUI. Perfect for learning network programming while maintaining a professional, modern aesthetic.
 
 ## ✨ Key Features
 - **🔌 Real-time Socket Communication**
@@ -27,9 +27,9 @@ A sophisticated chat application showcasing the power of Java socket programming
 ## 🛠️ Tech Stack
 
 <p align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Socket](https://img.shields.io/badge/Socket-Programming-success?style=for-the-badge)
-  ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Socket" src="https://img.shields.io/badge/Socket-Programming-success?style=for-the-badge"/>
+  <img alt="Swing" src="https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge"/>
 </p>
 
 
