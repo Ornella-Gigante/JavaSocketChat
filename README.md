@@ -25,11 +25,13 @@ A sophisticated chat application showcasing the power of Java socket programming
   - Natural conversation flow
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket-Programming-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge"/>
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Socket](https://img.shields.io/badge/Socket-Programming-success?style=for-the-badge)
+  ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 </p>
+
 
 ## 🎥 Demo
 Watch the application in action:
@@ -41,17 +43,17 @@ Watch the application in action:
 </p>
 
 ## 📁 Project Structure
-socket_bot/
-├── src/
-│ ├── BotServer.java # Intelligent server implementation
-│ ├── BotClient.java # Network communication handler
-│ └── ChatBotGUI.java # Modern user interface
-├── demo/
-│ ├── banner.png
-│ ├── thumbnail.png
-│ └── showcase.mp4
-└── README.md
-text
+
+    socket_bot/
+    ├── src/
+    │ ├── BotServer.java # Intelligent server implementation
+    │ ├── BotClient.java # Network communication handler
+    │ └── ChatBotGUI.java # Modern user interface
+    ├── demo/
+    │ ├── banner.png
+    │ ├── thumbnail.png
+    │ └── showcase.mp4
+    └── README.md
 
 ## 🚀 Getting Started
 
@@ -60,31 +62,31 @@ text
 - Git
 
 ### Installation
-1. Clone the repository
-git clone https://github.com/YourUsername/ModernJavaSocketChat.git
-text
+    
+    1. Clone the repository
+    git clone https://github.com/YourUsername/ModernJavaSocketChat.git
 
-2. Navigate to project directory
-cd ModernJavaSocketChat
-text
 
-3. Compile the application
-javac socket_bot/*.java
-text
+    2. Navigate to project directory
+    cd ModernJavaSocketChat
 
-4. Start the chat application
-java socket_bot.ChatBotGUI
-text
+    3. Compile the application
+    javac socket_bot/*.java
+
+    4. Start the chat application
+    java socket_bot.ChatBotGUI
 
 ## 🎯 Features in Detail
 
 ### Server Capabilities
+
 - Multi-threaded client handling
 - Smart response system
 - Customizable conversation patterns
 - Time-aware interactions
 
 ### Client Interface
+
 - Intuitive dark theme design
 - Split-pane layout for commands and chat
 - Custom-styled components
