@@ -1,13 +1,15 @@
 # 🤖 Modern Java Socket Chat
 
+## 🌟 Overview
+A simple but functional chat application showcasing the power of Java socket programming combined with an elegant dark-themed GUI. Perfect for learning network programming while maintaining a professional, modern aesthetic.
+
+
+# 📸 Preview Image
 <p align="center">
   <a href="https://github.com/Ornella-Gigante/JavaSocketChat/blob/main/socket.png">
     <img src="https://github.com/Ornella-Gigante/JavaSocketChat/blob/main/socket.png" alt="Java Socket Chat Preview" width="600"/>
   </a>
 </p>
-
-## 🌟 Overview
-A simple but functional chat application showcasing the power of Java socket programming combined with an elegant dark-themed GUI. Perfect for learning network programming while maintaining a professional, modern aesthetic.
 
 ## ✨ Key Features
 - **🔌 Real-time Socket Communication**
@@ -36,11 +38,13 @@ A simple but functional chat application showcasing the power of Java socket pro
 
 
 ## 🎥 Demo
-Watch the application in action:
 
+Check out the application in action:
 <p align="center">
-  <a href="demo/showcase.mp4">
-    <img src="demo/thumbnail.png" alt="Demo Video" width="600"/>
+  <a href="https://github.com/Ornella-Gigante/JavaSocketChat/blob/main/sockets.mp4">
+    <img src="https://github.com/Ornella-Gigante/JavaSocketChat/blob/main/socket.png" alt="Demo Video Thumbnail" width="600"/>
+    <br>
+    Click to watch demo video
   </a>
 </p>
 
